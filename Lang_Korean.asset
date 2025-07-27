@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fd010d22f262749879c96b326c6ee6, type: 3}
+  m_Name: Lang_Korean
+  m_EditorClassIdentifier: 
+  mappings: "# \uD55C\uAD6D\uC5B4 \uD30C\uC77C\uC740 \uC81C\uAC00 \uC9C1\uC811 \uCD94\uAC00\uD558\uB2C8
+    \uAC74\uB4E4\uC9C0 \uB9D0\uC544\uC8FC\uC138\uC694!\n\ngameTitle=3D\uC790\uC720\uC8FC\uD589\r\nclose=\uB2EB\uAE30\r\nselect=\uC120\uD0DD\r\nlobby.play=\uC2DC\uC791\uD558\uAE30\r\nlobby.selectVehicle=\uCC28\uB7C9
+    \uC120\uD0DD\r\nlobby.selectDriver=\uC6B4\uC804\uC790 \uC120\uD0DD\r\nlobby.visitYoutube=\uC720\uD29C\uBE0C
+    \uBC29\uBB38\r\nlobby.settings=\uC124\uC815\r\nlobby.logIn=\uB85C\uADF8\uC778\r\nlobby.multiplayer=\uBA40\uD2F0\uD50C\uB808\uC774
+    (\uAC1C\uBC1C\uC911)\r\nlogIn.title=\uB85C\uADF8\uC778\r\nlogIn.googlePlay=\uAD6C\uAE00
+    \uD50C\uB808\uC774\r\nlogIn.logOut=\uB85C\uADF8\uC544\uC6C3\r\nlogIn.message.trying=\uB85C\uADF8\uC778
+    \uC2DC\uB3C4 \uC911...\r\nlogIn.message.success=\uB85C\uADF8\uC778\uC5D0 \uC131\uACF5\uD588\uC2B5\uB2C8\uB2E4.\r\nlogIn.message.failed=\uB85C\uADF8\uC778\uC5D0
+    \uC2E4\uD328\uD588\uC2B5\uB2C8\uB2E4.\r\nlogIn.message.logOutSuccess=\uB85C\uADF8\uC544\uC6C3\uC5D0
+    \uC131\uACF5\uD588\uC2B5\uB2C8\uB2E4.\r\nlogIn.message.notLoggedIn=\uB85C\uADF8\uC778\uB418\uC5B4
+    \uC788\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.\r\nlogIn.message.error=\uC624\uB958\uAC00
+    \uBC1C\uC0DD\uD588\uC2B5\uB2C8\uB2E4: {0}\r\nlogIn.message.processing=\uCC98\uB9AC\uC911\uC785\uB2C8\uB2E4...\r\nsettings.title=\uC124\uC815\r\nsettings.controllerType=\uC870\uC791\uBC29\uC2DD\r\nsettings.steeringType=\uD578\uB4E4\uB9C1
+    \uBC29\uC2DD\r\nsettings.physics=\uBB3C\uB9AC\uC5D4\uC9C4\r\nsettings.drivingAssistants=\uC6B4\uC804
+    \uBCF4\uC870\uC7A5\uCE58\r\nsettings.pedalSize=\uD398\uB2EC \uD06C\uAE30\r\nsettings.steeringWheelSize=\uD578\uB4E4
+    \uD06C\uAE30\r\nsettings.slidePedal=\uC2AC\uB77C\uC774\uB4DC \uD398\uB2EC\r\npauseMenu.continue=\uACC4\uC18D\uD558\uAE30\r\npauseMenu.restart=\uB2E4\uC2DC\uD558\uAE30\r\npauseMenu.lobby=\uCC98\uC74C\uC73C\uB85C\r\npauseMenu.settings=\uC124\uC815\r\ngame.busSeat={0}\uBC88\uC9F8
+    \uC88C\uC11D\r\nloading.cards=\uCC28\uB7C9 \uCE74\uB4DC\uB97C \uBD88\uB7EC\uC624\uB294
+    \uC911... ({0}/{1})"

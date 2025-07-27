@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fd010d22f262749879c96b326c6ee6, type: 3}
+  m_Name: Lang_English
+  m_EditorClassIdentifier: 
+  mappings: "# This file was translated by a Korean developer.\n# Feel free to correct
+    any awkward points!\n\ngameTitle=3DFreeDriving\r\nclose=Close\r\nselect=Select\r\nlobby.play=Play\r\nlobby.selectVehicle=Select
+    Vehicle\r\nlobby.selectDriver=Select Driver\r\nlobby.visitYoutube=Visit YouTube\r\nlobby.settings=Settings\r\nlobby.logIn=Log
+    In\r\nlobby.multiplayer=Multiplayer (WIP)\r\nlogIn.title=Log In\r\nlogIn.googlePlay=Google
+    Play\r\nlogIn.logOut=Log Out\r\nlogIn.message.trying=Trying to log in...\r\nlogIn.message.success=Login
+    successful.\r\nlogIn.message.failed=Login failed\r.\r\nlogIn.message.logOutSuccess=Logout
+    was successful.\r\nlogIn.message.notLoggedIn=You are not logged in.\r\nlogIn.message.error=An
+    error has occured: {0}\r\nlogIn.message.processing=Processing...\r\nsettings.title=Settings\r\nsettings.controllerType=Controller
+    Type\r\nsettings.steeringType=Steering Mode\r\nsettings.physics=Physics\r\nsettings.drivingAssistants=Driving
+    Assistants\r\nsettings.pedalSize=Pedal Size\r\nsettings.steeringWheelSize=Steering
+    Wheel Size\r\nsettings.slidePedal=Slide Pedal\r\npauseMenu.continue=Continue\r\npauseMenu.restart=Restart\r\npauseMenu.lobby=Lobby\r\npauseMenu.settings=Settings\r\ngame.busSeat=Seat
+    {0}\r\nloading.cards=Loading vehicle cards.. ({0}/{1})"
