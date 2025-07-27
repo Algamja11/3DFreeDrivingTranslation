@@ -1,0 +1,37 @@
+# This file was translated by a Korean developer.
+# Feel free to correct any awkward points!
+
+gameTitle=3DFreeDriving
+close=Close
+select=Select
+lobby.play=Play
+lobby.selectVehicle=Select Vehicle
+lobby.selectDriver=Select Driver
+lobby.visitYoutube=Visit YouTube
+lobby.settings=Settings
+lobby.logIn=Log In
+lobby.multiplayer=Multiplayer (WIP)
+logIn.title=Log In
+logIn.googlePlay=Google Play
+logIn.logOut=Log Out
+logIn.message.trying=Trying to log in...
+logIn.message.success=Login successful.
+logIn.message.failed=Login failed.
+logIn.message.logOutSuccess=Logout was successful.
+logIn.message.notLoggedIn=You are not logged in.
+logIn.message.error=An error has occured: {0}
+logIn.message.processing=Processing...
+settings.title=Settings
+settings.controllerType=Controller Type
+settings.steeringType=Steering Mode
+settings.physics=Physics
+settings.drivingAssistants=Driving Assistants
+settings.pedalSize=Pedal Size
+settings.steeringWheelSize=Steering Wheel Size
+settings.slidePedal=Slide Pedal
+pauseMenu.continue=Continue
+pauseMenu.restart=Restart
+pauseMenu.lobby=Lobby
+pauseMenu.settings=Settings
+game.busSeat=Seat {0}
+loading.cards=Loading vehicle cards.. ({0}/{1})

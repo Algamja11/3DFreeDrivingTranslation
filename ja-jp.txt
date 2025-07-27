@@ -1,0 +1,37 @@
+# このファイルは翻訳者によって翻訳されました。
+# もし再翻訳する場合は最初から再翻訳してください！
+
+gameTitle=3DFreeDriving
+close=閉じる
+select=選択
+lobby.play=プレイ
+lobby.selectVehicle=車両選択
+lobby.selectDriver=運転者の選択
+lobby.visitYoutube=YouTubeにアクセス
+lobby.settings=設定
+lobby.logIn=ログイン
+lobby.multiplayer=マルチプレイ（開発中）
+logIn.title=ログイン
+logIn.googlePlay=Google Play
+logIn.logOut=ログアウト
+logIn.message.trying：ログインしようとしています...
+logIn.message.success=ログインに成功しました。
+logIn.message.failed=ログインに失敗しました。
+logIn.message.logOutSuccess=ログアウトに成功しました。
+logIn.message.notLoggedIn=ログインしていません。
+logIn.message.error=エラーが発生しました: {0}
+logIn.message.processing=処理中です...
+settings.title=設定
+settings.controllerType=操作方法
+settings.steeringType=ハンドル方式
+settings.physics=物理エンジン
+settings.drivingAssistants=運転補助装置
+settings.pedalSize=ペダルサイズ
+settings.steeringWheelSize=ハンドルサイズ
+settings.slidePedal=スライドペダル
+pauseMenu.continue=続行する
+pauseMenu.restart=もう一度
+pauseMenu.lobby=最初に
+pauseMenu.settings=設定
+game.busSeat={0}番目の座席
+loading.cards=車両カードの読み込み中... ({0}/{1})
