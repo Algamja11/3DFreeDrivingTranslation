@@ -1,15 +1,33 @@
-# 한국어 파일은 제가 직접 추가하니 건들지 말아주세요!
+# 한국어 파일은 제가 직접 관리하니 건들지 말아주세요!
+#
 
-gameTitle=3D자유주행
-close=닫기
-select=선택
+game.title=3D자유주행
+game.close=닫기
+game.select=선택
+game.exit=나가기
+game.reset=초기화
 lobby.play=시작하기
 lobby.selectVehicle=차량 선택
 lobby.selectDriver=운전자 선택
 lobby.visitYoutube=유튜브 방문
 lobby.settings=설정
 lobby.logIn=로그인
-lobby.multiplayer=멀티플레이 (개발중)
+lobby.openPopup=공지 열기
+lobby.popup.title=시작하기
+lobby.popup.updateLog=업데이트 목록
+play.title=시작하기
+play.singleplayer=싱글플레이
+play.multiplayer=멀티플레이 (개발중)
+carSelection.select=선택하기
+carSelection.paint=도색하기
+carSelection.pullup.help1=위로 끌어당겨보세요!
+carSelection.pullup.help2=카테고리별로 차량이 정리되어 있어 차량을 빠르게 선택할 수 있습니다.
+carSelection.pullup.help3=이제 끌어내려보세요!
+carSelection.pullup.help4=이 메뉴를 닫을 수 있습니다.
+paint.chooseColor=색상 선택
+paint.metallic=메탈릭
+paint.smoothness=매끄러움
+paint.textureImport.help=만약 도면이 불러와지지 않는다면,\n<b>설정 -> 애플리케이션-> 3D자유주행 -> 권한</b>에서 <b>저장공간</b>권한을 활성화해주세요.
 logIn.title=로그인
 logIn.googlePlay=구글 플레이
 logIn.logOut=로그아웃
@@ -20,6 +38,7 @@ logIn.message.logOutSuccess=로그아웃에 성공했습니다.
 logIn.message.notLoggedIn=로그인되어 있지 않습니다.
 logIn.message.error=오류가 발생했습니다: {0}
 logIn.message.processing=처리중입니다...
+languages.title=언어
 settings.title=설정
 settings.controllerType=조작방식
 settings.steeringType=핸들링 방식
@@ -33,4 +52,4 @@ pauseMenu.restart=다시하기
 pauseMenu.lobby=처음으로
 pauseMenu.settings=설정
 game.busSeat={0}번째 좌석
-loading.cards=차량 카드를 불러오는 중... ({0}/{1})
+loading.cards=차량 카드를 불러오는 중... ({0}%)
