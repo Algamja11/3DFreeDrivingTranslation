@@ -1,11 +1,12 @@
-# This file was translated by a Korean developer.
-# Feel free to correct any awkward points!
+# Translated by a Korean developer.
+# Feel free to correct any awkward phrasing!
 
 game.title=3DFreeDriving
 game.close=Close
 game.select=Select
 game.exit=Exit
 game.reset=Reset
+game.busSeat=Seat {0}
 lobby.play=Play
 lobby.selectVehicle=Select Vehicle
 lobby.selectDriver=Select Driver
@@ -39,6 +40,32 @@ logIn.message.notLoggedIn=You are not logged in.
 logIn.message.error=An error has occured: {0}
 logIn.message.processing=Processing...
 languages.title=Languages
+settingsLobby.title=Game Settings
+settingsLobby.general=General
+settingsLobby.graphics=Graphics
+settingsLobby.account=Account
+settingsLobby.languages=Languages...
+settingsLobby.general.header1=General Settings
+settingsLobby.general.header2=Advanced Settings
+settingsLobby.general.batterySave=Battery Save Mode
+settingsLobby.general.guiScale=GUI Scale
+settingsLobby.general.masterVolume=Master Volume
+settingsLobby.general.resetSettings=Reset Settings Data
+settingsLobby.general.resetTutorials=Reset Tutorial Data
+settingsLobby.graphics.header1=Post-Processing Settings
+settingsLobby.graphics.header2=Shadow Settings
+settingsLobby.graphics.header3=Other Settings
+settingsLobby.graphics.ssao=Ambient Occlusion
+settingsLobby.graphics.blurEffect=Blur Effect
+settingsLobby.graphics.bloomEffect=Bloom Efect
+settingsLobby.graphics.shadowDistance=Shadow Distacne
+settingsLobby.graphics.shadowResolution=Shadow Resolution
+settingsLobby.graphics.lowResTextures=Low Resolution Textures (Experimental)
+settingsLobby.account.header1=Account Settings (WIP)
+pauseMenu.continue=Continue
+pauseMenu.restart=Restart
+pauseMenu.lobby=Lobby
+pauseMenu.settings=Settings
 settings.title=Settings
 settings.controllerType=Controller Type
 settings.steeringType=Steering Mode
@@ -47,9 +74,4 @@ settings.drivingAssistants=Driving Assistants
 settings.pedalSize=Pedal Size
 settings.steeringWheelSize=Steering Wheel Size
 settings.slidePedal=Slide Pedal
-pauseMenu.continue=Continue
-pauseMenu.restart=Restart
-pauseMenu.lobby=Lobby
-pauseMenu.settings=Settings
-game.busSeat=Seat {0}
 loading.cards=Loading vehicle cards.. ({0}%)
